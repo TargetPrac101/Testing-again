@@ -1,0 +1,28 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="Testing.html" resolutions="1x" timestamp="1463816886382">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="articles.css" crc="4241877549" ref="articles"/>
+    <file name="assessments.css" crc="391455492" ref="assessments"/>
+    <file name="follow-asssessment.css" crc="310799412" ref="follow-asssessment"/>
+    <file name="upcoming-camps.css" crc="4241877549" ref="upcoming-camps"/>
+    <file name="index.css" crc="52704700" ref="index"/>
+    <file name="cp-assessment.css" crc="4011833987" ref="cp-assessment"/>
+    <file name="training.css" crc="236661036" ref="training"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:assessments:training:articles:upcoming-camps:cp-assessment:follow-asssessment"/>
+    <file name="museutils.js" crc="3790713428" ref="index:assessments:training:articles:upcoming-camps:cp-assessment:follow-asssessment"/>
+    <file name="whatinput.js" crc="84559013" ref="index:assessments:training:articles:upcoming-camps:cp-assessment:follow-asssessment"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:assessments:training:articles:upcoming-camps:cp-assessment:follow-asssessment"/>
+  </folder>
+  <folder name="images">
+    <file name="camp clayton logo - transparent background white writing 2.png" crc="3896129822" seo="true" ref="index:assessments"/>
+  </folder>
+  <file name="index.html" crc="531053951" seo="true" mt="1463814495334" redirect="true"/>
+  <file name="assessments.html" crc="46740459" seo="true" mt="1463814572679" redirect="true"/>
+  <file name="training.html" crc="3982434522" seo="true" mt="1463814962341" redirect="true"/>
+  <file name="articles.html" crc="327387827" seo="true" mt="1463814447537" redirect="false"/>
+  <file name="upcoming-camps.html" crc="151916440" seo="true" mt="1463814462296" redirect="false"/>
+  <file name="cp-assessment.html" crc="99522061" seo="true" mt="1463814840720" redirect="true"/>
+  <file name="follow-asssessment.html" crc="4193942530" seo="true" mt="1463814807363" redirect="true"/>
+</manifest>
